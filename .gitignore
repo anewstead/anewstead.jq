@@ -1,0 +1,11 @@
+node_modules
+bower_components
+dist
+.tmp
+.sass-cache
+.DS_Store
+_archive
+_zip
+_tmp
+package-lock.json
+content
