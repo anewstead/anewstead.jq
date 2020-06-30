@@ -1,3 +1,8 @@
+# anewstead.jq
+
+[https://anewstead-jq.netlify.app/](https://anewstead-jq.netlify.app/)
+
+Portfolio site build using standard javascript, jquery, bootstrap and LESS/CSS in a Grunt build system
 
 ## Structure
 
@@ -11,18 +16,14 @@
     |   |
     |   |-- site code
 
-
-
 ## Getting started
 
-* install: node lts from js.org
-* install grunt-cli: sudo npm install -g grunt-cli 
-
+- install: node lts
+- install grunt-cli: sudo npm install -g grunt-cli
 
 * clone/download this project
-* run 'npm install' 
+* run 'npm install'
 
-
-* run 'grunt' - runs build, watches code changes and auto build, starts local server (http://localhost:9000/)
-* run 'grunt build' - compile src banners to dist
-* run 'grunt min' - just minify js/css in the existing build folder (i.e. without rebuilding)
+- run 'grunt' - runs build, watches code changes and auto build, starts local server (http://localhost:9000/)
+- run 'grunt build' - compile src banners to dist
+- run 'grunt min' - just minify js/css in the existing build folder (i.e. without rebuilding)
